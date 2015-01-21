@@ -1,0 +1,15 @@
+* {margin:0; padding:0;}
+html, body {width:100%;}
+body {background:#000; color: #333; font:14px/1.4 Tahoma, Geneva, sans-serif;}
+table {border-collapse: collapse; border-spacing: 0;}
+td{vertical-align: top;}
+a {color: #653423; text-decoration:none;}
+a:hover {color:#000; text-decoration:underline;}
+h1 {font-size:16px; font-weight:normal; line-height:40px; text-shadow: 1px 1px 3px #aaa;color: #653423;}
+h2, h3, h4, h5, h6 {color: #653423; font-size:16px; margin-bottom:15px;}
+p {margin-bottom:15px;}
+ul, ol {margin-bottom:15px;}
+li {margin-left:20px;}
+img {border: none;}
+
+div#mainblock {width:800px; margin:30px auto 0 auto;}
