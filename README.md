@@ -1,2 +1,2 @@
 # BURA
-Online Card Game
+Online Card Game on HTML5 (canvas+JS)
